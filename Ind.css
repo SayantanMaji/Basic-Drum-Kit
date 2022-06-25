@@ -1,0 +1,64 @@
+#Doc{
+    justify-content: center;
+    background-image: url(./Assets/bg.png);
+}
+#Buttoncont{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+#reset{
+    position: absolute;
+    top: 170px;
+    left: 1010px;
+
+}
+#tom,#snare,#clap,#hat,#cyb,#kick{
+    width: 150px;
+    height: 150px;
+}
+#bass{
+    width: 460px;
+    height: 150px;
+}
+#reset{
+    width: 200px;
+    height: 50px;
+}
+#bass{
+    background: radial-gradient(#db9f9f, #fb8b8b);
+    border: 2px solid #ccc3df;
+}
+#tom{
+    background: radial-gradient(#ef8d8d, #ff0000);
+    border: 2px solid #ff9595;
+}
+#hat{
+    background: radial-gradient(#9198e5, #0015ff);
+    border: 2px solid #c2aeff;
+}
+#clap{
+    background: radial-gradient(#5b9c5f, #006803);
+    border: 2px solid #447d3d;
+}
+#cyb{
+    background: radial-gradient(#e7efa4, #ebfc00);
+    border: 2px solid #f5ff9a;
+}
+#kick{
+    background: radial-gradient(#ecbaec, #ff00d0);
+    border: 2px solid #ffd1f0;
+}
+#snare{
+    background: radial-gradient(#a0d9dd, #04cdff);
+    border: 2px solid #9de6f3;
+}
+#reset{
+    background: radial-gradient(#d490ff, #8602d7);
+    border: 2px solid #b855ff;
+}
+#hd{
+    font-family:fantasy;
+    color: white;
+    font-size: 50px;
+}
