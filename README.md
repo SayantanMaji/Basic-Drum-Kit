@@ -4,6 +4,7 @@ Basic Drum kit using JAVAScript
 i) Use buttons to activate instruments.
 
 ii) Use the following keys to use :
+    
     A --> Clap
     
     S --> Cymbal
